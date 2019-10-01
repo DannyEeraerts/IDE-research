@@ -4,7 +4,7 @@
 
 ## What is an IDE
 	
-An Integrated Development Environment (IDE) is **a software suite that consolidates basic tools required to write and test software.**
+An **I**ntegrated **D**evelopment **E**nvironment (IDE) is **a software suite that consolidates basic tools required to write and test software.**
 
 ### Why to use an IDE
 
@@ -57,39 +57,37 @@ There are many IDE's: like
 * Atom (used as an integrated development environment, until that feature was **'retired'** in December 2018.)
 
 * ...
-
+___
 > ### "an IDE is an personal choose"
+---
 
-Nadelen van PHPStorm:
-DE Research
-vs logo
-download link of the IDE
-download link
-Pro's & Con's
-Three Positives 	Three negatives
+## Comparision PHPStorm vs Visual Studio Code.
 
-    Free
-    Beginner friendly
-    More plug-ins
+| 	        | PHPStorm      | VisualStudioCode  |
+| ------------- |:-------------| :-----------------|
+| **Pro's** 	| 1. Powerfull autocomplet and code check | 1. Free             |
+| 	        | 2. Regular updates for fixes and new features     | 2. Beginner friendly  |
+| 	        | 3. Lots of plugins    | 3. More plug-ins  |
+| **Con's**     | 1. Price     |   1. Generalized     |
+| 	        | 2. Debugging is not so easy      | 2. Project search limits result  |
+| 	        | 3. Interface is cluttered      | 3. Sometimes the autocomplete and code check is not as powerfull as PHPStorm  |
 
-	
+## Download links
 
-    Sometimes the autocomplete and code check is not as powerful as PhpStorm
-    Project search limits result
-    Generalized
+[Download VisualStudioCode](https://code.visualstudio.com/download)
 
-Quote of the day: "We did it!" 😜
+[Download PhpStorm](https://www.jetbrains.com/phpstorm/download/index.html#section=mac)
 
- ipsum, dolor sit amet consectetur adipisicing elit. <p></p> Alias, veniam.
 
-Task list
 
-    ✓task 1
-    ✓task 2
-    ✓task 3
+- [x] Finish my changes
+- [x] Push my commits to GitHub
+- [ ] Open a pull request
+
+
+# "We did it!" 😜 
 
 Made with love
 
- - foo
-   - bar
-→ - baz
+
+ 
