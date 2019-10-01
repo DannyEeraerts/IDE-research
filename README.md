@@ -1,5 +1,7 @@
 # IDE-research 
 
+![alt text](https://cdn.ideglobal.org/images/seo/_seoFacebook/iDE_logo_hi_res.jpg?mtime=20160823153312 "Logo IDE")
+
 ## What is an IDE
 	
 An Integrated Development Environment (IDE) is **a software suite that consolidates basic tools required to write and test software.**
@@ -20,20 +22,43 @@ An IDE's toolbar looks much like a word processor's toolbar. The toolbar facilit
 
 ### Benefits of using IDEs
 
-An IDE can i**mprove the productivity of software developers thanks to fast setup and standardization across tools.**
+An IDE can **improve the productivity of software developers thanks to fast setup and standardization across tools.**
 
-IDEs are also designed with all their tools under one user interface. An IDE can standardize the development process by organizing the necessary features for software development in the UI.
-Types of IDEs and available tools
+IDEs are also designed with all their tools under one user interface. An IDE **can standardize the development process** by organizing the necessary features for software development in the UI.
 
-Developers must match the IDE they use with the type of application they want to produce. For example, if a developer wants to create an application on iOS, then they need an IDE that supports Apple's Swift programming language. Types of IDEs range from web-based and cloud-based to mobile, language-specific or multi-language.
+### Types of IDEs and available tools
+
+Developers **must match the IDE they use with the type of application they want to produce.** For example, if a developer wants to create an application on iOS, then they need an IDE that supports Apple's Swift programming language. Types of IDEs range from web-based and cloud-based to mobile, language-specific or multi-language.
+
 
 ## Which IDE's exists
 
 There are many IDE's: like 
-PHPSTORM, Visual Studio Code, Atom, Netbeans, Intellij IDA, Eclipse,Pycharm, Eclips,
-Code::Blocks, Aptana Studio 3, Komodo, Xcode, ...
+* PHPSTORM
+	* Languages Supported: *HTML5, CSS3, SCSS, Sass, Less, JavaScript, TypeScript, PHP, Rust, SQL, Json, Vue*
+* Visual Studio Code
+	* Languages Supported: *ASP.NET, DHTML, JavaScript, JScript, Visual Basic, Visual C#, Visual C++, Visual F#, XAML and more*
+* Netbeans
+	* Languages Supported: *C, C++, C++11, Fortan, HTML 5, Java, PHP and more*
+* Intellij IDA
+	* Languages Supported: *AngularJS, CoffeeScript, CS, HTML, JavaScript, LESS, Node JS, PHP, Python, Ruby, Sass, TypeScript and more*
+* Eclipse
+	* Languages Supported: *C, C++, Java, Perl, PHP, Python, Ruby and more*
+* Pycharm
+	* Languages Supported: *AngularJS, Coffee Script, CSS, Cython, HTML, JavaScript, Node.js, Python, TypeScript and template languages*
+* Code::Blocks
+	* Languages Supported: *C, C++, Fortran*
+* Aptana Studio 3
+	* Languages Supported: *HTML5, CSS3, JavaScript, Ruby, Rails, PHP, and Python*
+* Komodo
+	* Languages Supported: *CSS, Go, JavaScript, HTML, NodeJS, PerlPHP, Python, Ruby, Tcl and more.*
+* Xcode
+	* Languages Supported: *AppleScript, C, C++, Java, Objective-C*
+* Atom (used as an integrated development environment, until that feature was **'retired'** in December 2018.)
 
-Mijn persoonlijke voorkeur gaat uit naar PHPStorm en vervolgens naar Visual Studio Code. Met beiden heb ik een beetje ervaring.
+* ...
+
+> ### "an IDE is an personal choose"
 
 Nadelen van PHPStorm:
 DE Research
