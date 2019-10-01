@@ -78,7 +78,10 @@ ___
 
 [Download PhpStorm](https://www.jetbrains.com/phpstorm/download/index.html#section=mac)
 
-
+```javascript
+var s = "Markup for github is complete new for me";
+alert(s);
+```
 
 - [x] Finish my changes
 - [x] Push my commits to GitHub
