@@ -1,9 +1,36 @@
 # IDE-research 
 
-Een integrated development environment of IDE is computersoftware die een softwareontwikkelaar ondersteunt bij het ontwikkelen van computersoftware. Het bestaat uit een aantal onderdelen die samen een software suite vormen. 
-IDE-comparision
+## What is an IDE
+	
+An Integrated Development Environment (IDE) is **a software suite that consolidates basic tools required to write and test software.**
 
-There are many IDE's: like PHPSTORM, Visual Studio Code, Atom, Netbeans, Intellij IDA, Eclipse,Pycharm, Eclips,
+### Why to use an IDE
+
+Developers use numerous tools throughout software code creation, building and testing. Development tools often include text editors, code libraries, compilers and test platforms. Without an IDE, a developer must *select*, *deploy*, *integrate* and manage all of these tools separately. **An IDE brings many of those development-related tools together as a single framework, application or service.** The integrated toolset is **designed to simplify software development** and can *identify* and *minimize coding mistakes and typos*.
+
+Some IDEs are open source, while others are commercial offerings. An IDE can be a standalone application or it can be part of a larger package.
+
+### Common features of integrated development environments
+
+An IDE typically contains **a code editor, a compiler or interpreter, and a debugger** , accessed through a single graphical user interface (GUI). The user writes and edits *source code* in the code editor. The *compiler* translates the source code into a readable language that is executable for a computer. And the *debugger* tests the software to solve any issues or bugs.
+
+An IDE can also contain features such as programmable editors, object and data modeling, unit testing, a source code library and build automation tools.
+
+An IDE's toolbar looks much like a word processor's toolbar. The toolbar facilitates color-based organization, source-code formatting, error diagnostics and reporting, and intelligent code completion. Through an IDE's interface, a developer or team of developers can compile and execute code incrementally and manage changes to source code in a uniform manner. IDEs are typically designed to integrate with third-party version control libraries, such as GitHub and Apache's Subversion.
+
+### Benefits of using IDEs
+
+An IDE can i**mprove the productivity of software developers thanks to fast setup and standardization across tools.**
+
+IDEs are also designed with all their tools under one user interface. An IDE can standardize the development process by organizing the necessary features for software development in the UI.
+Types of IDEs and available tools
+
+Developers must match the IDE they use with the type of application they want to produce. For example, if a developer wants to create an application on iOS, then they need an IDE that supports Apple's Swift programming language. Types of IDEs range from web-based and cloud-based to mobile, language-specific or multi-language.
+
+## Which IDE's exists
+
+There are many IDE's: like 
+PHPSTORM, Visual Studio Code, Atom, Netbeans, Intellij IDA, Eclipse,Pycharm, Eclips,
 Code::Blocks, Aptana Studio 3, Komodo, Xcode, ...
 
 Mijn persoonlijke voorkeur gaat uit naar PHPStorm en vervolgens naar Visual Studio Code. Met beiden heb ik een beetje ervaring.
